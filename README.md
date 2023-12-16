@@ -33,6 +33,8 @@ TABLEAU Dashboard URL : https://public.tableau.com/shared/JBTBNFJP7?:display_cou
 
 •	Tableau Dashboard Link: Access my Tableau dashboard through the sidebar.
 
+<img width="1440" alt="Screenshot 2023-12-16 at 12 05 30 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/c207701d-ad85-497d-8c75-ccb269f0a601">
+
 
 # Overview
 
@@ -41,6 +43,9 @@ Raw Data
 •	View Raw Data: Explore raw data in JSON format.
 
 •	View DataFrame: Access Airbnb dataset in tabular form.
+
+<img width="1440" alt="Screenshot 2023-12-16 at 12 05 44 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/1aad02ba-2547-41e6-a9f9-c912b304fd74">
+
 
 Insights
 
@@ -54,6 +59,10 @@ Insights
 
 •	Geo Visualization: World map visualizing total listings for each country.
 
+<img width="1440" alt="Screenshot 2023-12-16 at 12 05 54 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/7fe4a0a4-3595-4434-aa26-385bee1aa610">
+<img width="1440" alt="Screenshot 2023-12-16 at 12 06 02 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/ce7b7e88-b128-48fb-999e-5eff5c8cfaae">
+
+
 # Explore
 
 •	Custom Exploration: Utilize dropdowns to filter by country, property type, and room type.
@@ -64,5 +73,10 @@ Insights
 
 •	Availability Insights: Box chart illustrating availability trends.
 
+<img width="1440" alt="Screenshot 2023-12-16 at 12 06 10 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/ab2d91f7-cc6c-4edd-943b-ac8f0d43907c">
+<img width="1439" alt="Screenshot 2023-12-16 at 12 06 19 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/c6abe6a0-0c28-4c5f-8610-bf89eb8060eb">
+
 
 # Tableau Dashboard Image
+
+<img width="1438" alt="Screenshot 2023-12-16 at 12 03 05 PM" src="https://github.com/Ramya19rk/Airbnb-Analysis/assets/145639838/114d27d2-ca5c-4216-81e7-0da42b28c9be">
