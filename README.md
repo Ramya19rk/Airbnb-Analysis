@@ -8,7 +8,7 @@ BATCH: D98
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_introduction-excited-to-share-my-latest-activity-7141685783291133952-CtZq?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
